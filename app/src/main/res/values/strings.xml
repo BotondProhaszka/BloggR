@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BloggR</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="tag">Tag</string>
 </resources>
