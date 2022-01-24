@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout-v31/post_preview.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="app/src/main/res/layout/post_preview.xml" value="0.35572916666666665" />
         <entry key="app/src/main/res/layout/rv_tag.xml" value="0.35572916666666665" />
         <entry key="app/src/main/res/layout/tag.xml" value="0.35572916666666665" />

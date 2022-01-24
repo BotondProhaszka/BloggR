@@ -5,4 +5,8 @@
     <string name="description">Description</string>
     <string name="date">Date</string>
     <string name="tag">Tag</string>
+    <string name="login">Login</string>
+    <string name="i_can_t_log_in">I can\'t log in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
 </resources>
